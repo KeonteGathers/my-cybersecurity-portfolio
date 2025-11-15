@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner2.png" width="800">
+</p>
 # 🛡️ Incident Response: Suspicious Login & Brute-Force Attempt
 
 ## Overview  
