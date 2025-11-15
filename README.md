@@ -1,6 +1,9 @@
 <p align="center">
   <img src="images/banner.png" width="800">
 </p>
+<p align="center">
+  <img src="images/banner.png" width="800">
+</p>
 🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
 
 <p align="center">
