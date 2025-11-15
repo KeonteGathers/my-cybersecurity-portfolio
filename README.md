@@ -4,6 +4,9 @@
 <p align="center">
   <img src="images/Keonte%20Gathers%20Cybersecurity%20Portfolio%20Banner.png" width="800">
 </p>
+<p align="center">
+  <img src="images/Keonte%20Gathers%20Cybersecurity%20Portfolio%20Banner.png" width="800">
+</p>
 <h1 align="center">🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
 
 <p align="center">
