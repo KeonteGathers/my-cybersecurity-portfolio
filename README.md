@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Keonte%20Gathers%20Cybersecurity%20Portfolio%20Banner.png" width="800">
+  <img src="https://raw.githubusercontent.com/KeonteGathers/my-cybersecurity-portfolio/main/images/Keonte%20Gathers%20Cybersecurity%20Portfolio%20Banner.png" width="800">
 </p>
 
 🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
