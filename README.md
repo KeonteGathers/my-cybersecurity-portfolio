@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/Keonte Gathers Cybersecurity Portfolio Banner.png" width="700">
+</p>
 # 🛡️ Keonte Gathers — Cybersecurity Portfolio
 **Cybersecurity Analyst with hands-on experience in SOC investigations, incident response, digital forensics, network traffic analysis, Python automation, and GRC audits.**  
 Skilled in detecting threats, analyzing logs, performing forensic investigations, modeling risks, and strengthening security controls across enterprise environments.
