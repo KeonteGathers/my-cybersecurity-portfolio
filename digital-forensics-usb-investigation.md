@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner7.png" width="800">
+</p>
 # 🔍 Digital Forensics: Suspicious USB Device Investigation
 
 ## Overview  
