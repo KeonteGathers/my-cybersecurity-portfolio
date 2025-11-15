@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner5.png" width="800">
+</p>
 # 🧠 Threat Modeling: Web Application (PASTA Framework)
 
 ## Overview  
