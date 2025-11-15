@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner3.png" width="800">
+</p>
 # 🌐 Network Traffic Analysis: HTTP/HTTPS Investigation
 
 ## Overview  
