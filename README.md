@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png?v=5" width="800">
+  <img src="images/Keonte%20Gathers%20Cybersecurity%20Portfolio%20Banner.png" width="800">
 </p>
 
 🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
