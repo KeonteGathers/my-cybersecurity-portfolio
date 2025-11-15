@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner6.png" width="800">
+</p>
 # 📊 Security Audit & Risk Assessment (NIST-Based)
 
 ## Overview  
