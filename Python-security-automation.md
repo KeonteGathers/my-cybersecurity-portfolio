@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner4.png" width="800">
+</p>
 # 🐍 Python Security Automation: File Integrity Monitoring (FIM)
 
 ## Overview  
