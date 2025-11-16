@@ -75,11 +75,20 @@ Applied the PASTA threat modeling framework to a web application handling sensit
 
 ---
 
-## 📫 Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/keonte-gathers/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/KeonteGathers" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://keontegathers.github.io/my-cybersecurity-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" />
+  </a>
+</p>
 
-- **LinkedIn:** https://www.linkedin.com/in/keonte-gathers/  
-- **GitHub:** https://github.com/KeonteGathers  
-- **Email:** keontegathers.kg@gmail.com  
 
 
 ---
