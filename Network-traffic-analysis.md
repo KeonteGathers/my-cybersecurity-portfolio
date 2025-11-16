@@ -3,6 +3,45 @@
 </p>
 # 🌐 Network Traffic Analysis: HTTP/HTTPS Investigation
 
+🧰 Skills Applied
+
+Deep packet inspection
+
+TLS handshake analysis
+
+Beaconing pattern identification
+
+Domain reputation analysis
+
+Network communication profiling
+
+Suspicious traffic correlation
+
+Security reporting & recommendations
+
+🛠 Tools Used
+
+Wireshark
+
+CyberChef
+
+VirusTotal / Domain Reputation Tools
+
+Zeek / Suricata (optional)
+
+TLS/SSL inspection utilities
+
+✔ Summary of Findings
+
+Identified abnormal outbound HTTPS connections occurring at regular intervals
+
+Detected suspicious TLS handshake characteristics (self-signed certificate + mismatched SNI)
+
+Observed beaconing-like behavior consistent with C2 (command-and-control) traffic
+
+Flagged destination IPs with malicious reputation
+
+Recommended isolating the host, blocking domains/IPs, and reviewing persistence mechanisms
 ## Overview  
 Performed packet analysis using Wireshark to investigate suspicious outbound HTTPS traffic. Identified potential command-and-control (C2) activity based on beaconing patterns and malicious indicators.
 
