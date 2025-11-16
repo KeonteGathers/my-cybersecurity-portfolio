@@ -5,7 +5,8 @@
 <br>
 
 
-🛡️ Keonte Gathers — Cybersecurity Portfolio
+<h1 align="center">🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
+
 
 <p align="center">
   <strong>Cybersecurity Analyst | SOC | Digital Forensics | GRC & Risk</strong><br>
