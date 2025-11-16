@@ -17,6 +17,14 @@
 I’m a cybersecurity analyst focused on incident response, threat analysis, network security, and risk-based decision making. I built this portfolio to demonstrate my hands-on skills in log analysis, digital forensics, automation, and security auditing. I am currently completing my cybersecurity certificate and actively pursuing entry-to-mid level cybersecurity roles.
 
 ---
+## 🛠 Skills & Tools
+
+**Security Tools:** Splunk, Wireshark, Suricata, Zeek, Security Onion, CyberChef  
+**Forensics:** Windows Event Logs, Registry Analysis (USBSTOR), MAC Times  
+**Programming:** Python, Bash  
+**Monitoring & Detection:** Log analysis, SIEM queries, Indicators of Compromise (IoCs)  
+**Frameworks:** NIST CSF, NIST 800-53, MITRE ATT&CK  
+**Other:** GitHub, Google Workspace, Ticketing systems (ServiceNow)
 
 ## 🔥 Featured Case Studies
 
@@ -67,10 +75,11 @@ Applied the PASTA threat modeling framework to a web application handling sensit
 
 ---
 
-## 📫 Connect
+## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/keonte-gathers-0632a72b/  
-- **GitHub Profile:** https://github.com/KeonteGathers  
+- **GitHub:** https://github.com/KeonteGathers  
 - **Email:** keontegathers.kg@gmail.com  
+
 
 ---
