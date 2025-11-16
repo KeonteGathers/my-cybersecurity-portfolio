@@ -1,6 +1,11 @@
 <p align="center">
   <img src="images/banner.png" width="800">
 </p>
+<p align="center">
+  <a href="https://github.com/KeonteGathers/my-cybersecurity-portfolio/raw/main/Keonte_Gathers_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge" />
+  </a>
+</p>
 
 <br>
 
