@@ -1,6 +1,59 @@
 <p align="center">
   <img src="images/banner7.png" width="800">
 </p>
+
+🧰 Skills Applied
+
+Digital forensics triage
+
+Windows Registry analysis
+
+USB artifact extraction (USBSTOR)
+
+Event log correlation
+
+Timeline reconstruction (MAC times)
+
+Evidence documentation
+
+Insider threat investigation
+
+🛠 Tools Used
+
+Windows Event Viewer
+
+Registry Editor / RegRipper
+
+USBSTOR artifact review
+
+CyberChef
+
+PowerShell (optional)
+
+File timestamp analysis tools
+
+✔ Summary of Findings
+
+Identified unauthorized USB device connection
+
+Found matching entries in the USBSTOR registry key confirming device presence
+
+Correlated event logs showing file access around the time of the USB connection
+
+Detected unusual file modification timestamps (MAC times)
+
+Evidence strongly suggested possible data exfiltration via removable media
+
+Recommended disabling removable drives, improving logging, and monitoring high-risk users
+
+🧩 MITRE ATT&CK Techniques
+
+T1020 — Automated Exfiltration
+
+T1052 — Exfiltration over Removable Media
+
+T1083 — File and Directory Discovery
+
 # 🔍 Digital Forensics: Suspicious USB Device Investigation
 
 ## Overview  
