@@ -1,7 +1,6 @@
 <p align="center">
   <img src="images/banner4.png" width="800">
 </p>
-
 🧰 Skills Applied
 
 Python scripting
@@ -18,6 +17,8 @@ Logging and alerting
 
 Automation for security operations
 
+
+
 🛠 Tools Used
 
 Python 3
@@ -30,6 +31,7 @@ Logging
 
 Terminal / CLI
 
+
 ✔ Summary of Findings
 
 Developed a Python-based File Integrity Monitoring (FIM) tool
@@ -41,6 +43,7 @@ Detected unauthorized or unexpected file modifications
 Logged file changes and produced simple alerts
 
 Demonstrated ability to automate SOC tasks and reduce manual work
+
 
 🧩 MITRE ATT&CK Techniques (Optional but adds credibility)
 
