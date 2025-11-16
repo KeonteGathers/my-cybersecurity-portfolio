@@ -77,7 +77,7 @@ Applied the PASTA threat modeling framework to a web application handling sensit
 
 ## 📫 Contact Me
 
-- **LinkedIn:** https://www.linkedin.com/in/keonte-gathers-0632a72b/  
+- **LinkedIn:** https://www.linkedin.com/in/keonte-gathers/  
 - **GitHub:** https://github.com/KeonteGathers  
 - **Email:** keontegathers.kg@gmail.com  
 
