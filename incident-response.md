@@ -2,7 +2,36 @@
   <img src="images/banner2.png" width="800">
 </p>
 # 🛡️ Incident Response: Suspicious Login & Brute-Force Attempt
+## 🧰 Skills Applied
+- Log analysis (authentication events)  
+- Brute-force detection  
+- IP reputation checks  
+- User identity verification  
+- Containment recommendations  
+- Incident documentation  
+- MITRE ATT&CK mapping  
+🛠 Tools Used
 
+Splunk
+
+CyberChef
+
+AbuseIPDB / WHOIS lookup
+
+Windows Event Logs
+
+Security Onion (optional)
+✔ Summary of Findings
+
+Detected repeated failed login attempts followed by 1 successful login
+
+Identified suspicious IP addresses with poor reputation
+
+Found evidence of brute-force behavior (multiple failed attempts with short intervals)
+
+Confirmed login did not match the user’s normal location
+
+Recommended password reset, MFA enforcement, session termination, and IP blocking
 ## Overview  
 Investigated a suspicious sequence of failed login attempts followed by a successful login, indicating a potential brute-force or credential compromise attack. Used Splunk to analyze authentication logs and executed containment procedures.
 
