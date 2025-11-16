@@ -6,15 +6,15 @@
 
 
 <h1 align="center">🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
-## 👩🏽‍💻 About Me
-
-I’m a cybersecurity analyst focused on incident response, threat analysis, network security, and risk-based decision making. I built this portfolio to demonstrate my hands-on skills in log analysis, digital forensics, automation, and security auditing. I am currently completing my cybersecurity certificate and actively pursuing entry-to-mid level cybersecurity roles.
 
 
 <p align="center">
   <strong>Cybersecurity Analyst | SOC | Digital Forensics | GRC & Risk</strong><br>
   Hands-on experience in incident response, network traffic analysis, Python security automation, digital forensics, and NIST-based security audits.
 </p>
+## 👩🏽‍💻 About Me
+
+I’m a cybersecurity analyst focused on incident response, threat analysis, network security, and risk-based decision making. I built this portfolio to demonstrate my hands-on skills in log analysis, digital forensics, automation, and security auditing. I am currently completing my cybersecurity certificate and actively pursuing entry-to-mid level cybersecurity roles.
 
 ---
 
