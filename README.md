@@ -2,7 +2,10 @@
   <img src="images/banner.png" width="800">
 </p>
 
-🛡️ Keonte Gathers — Cybersecurity Portfolio</h1>
+<br>
+
+
+🛡️ Keonte Gathers — Cybersecurity Portfolio
 
 <p align="center">
   <strong>Cybersecurity Analyst | SOC | Digital Forensics | GRC & Risk</strong><br>
