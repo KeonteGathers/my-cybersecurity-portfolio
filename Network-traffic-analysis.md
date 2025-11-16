@@ -1,7 +1,8 @@
 <p align="center">
   <img src="images/banner3.png" width="800">
 </p>
-# 🌐 Network Traffic Analysis: HTTP/HTTPS Investigation
+
+
 
 🧰 Skills Applied
 
@@ -19,6 +20,7 @@ Suspicious traffic correlation
 
 Security reporting & recommendations
 
+
 🛠 Tools Used
 
 Wireshark
@@ -31,6 +33,7 @@ Zeek / Suricata (optional)
 
 TLS/SSL inspection utilities
 
+
 ✔ Summary of Findings
 
 Identified abnormal outbound HTTPS connections occurring at regular intervals
@@ -42,6 +45,10 @@ Observed beaconing-like behavior consistent with C2 (command-and-control) traffi
 Flagged destination IPs with malicious reputation
 
 Recommended isolating the host, blocking domains/IPs, and reviewing persistence mechanisms
+# 🌐 Network Traffic Analysis: HTTP/HTTPS Investigation
+
+
+
 ## Overview  
 Performed packet analysis using Wireshark to investigate suspicious outbound HTTPS traffic. Identified potential command-and-control (C2) activity based on beaconing patterns and malicious indicators.
 
