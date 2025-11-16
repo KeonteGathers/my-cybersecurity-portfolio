@@ -1,6 +1,55 @@
 <p align="center">
   <img src="images/banner4.png" width="800">
 </p>
+
+🧰 Skills Applied
+
+Python scripting
+
+File integrity monitoring (FIM)
+
+SHA-256 hashing
+
+Baseline creation and comparison
+
+Change detection logic
+
+Logging and alerting
+
+Automation for security operations
+
+🛠 Tools Used
+
+Python 3
+
+hashlib (SHA-256)
+
+OS / File system modules
+
+Logging
+
+Terminal / CLI
+
+✔ Summary of Findings
+
+Developed a Python-based File Integrity Monitoring (FIM) tool
+
+Generated baseline hashes of critical system files
+
+Detected unauthorized or unexpected file modifications
+
+Logged file changes and produced simple alerts
+
+Demonstrated ability to automate SOC tasks and reduce manual work
+
+🧩 MITRE ATT&CK Techniques (Optional but adds credibility)
+
+T1565 — Data Manipulation
+
+T1490 — Inhibit System Recovery
+
+T1059 — Command and Scripting Interpreter
+
 # 🐍 Python Security Automation: File Integrity Monitoring (FIM)
 
 ## Overview  
