@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/banner6.png" width="800">
 </p>
+
 🧰 Skills Applied
 
 Security auditing
@@ -16,6 +17,8 @@ Compliance alignment
 Policy & control evaluation
 
 Remediation planning and recommendations
+
+
 🛠 Frameworks & Tools Used
 
 NIST Cybersecurity Framework (CSF)
@@ -29,6 +32,8 @@ Control checklists
 Asset categorization
 
 Security configuration reviews (MFA, logging, access control)
+
+
 ✔ Summary of Findings
 
 Identified several high-risk gaps, including:
@@ -48,6 +53,8 @@ Prioritized findings by likelihood and impact
 Created a remediation roadmap with immediate, short-term, and long-term fixes
 
 Demonstrated ability to translate technical risks into business-level recommendations
+
+
 📌 Compliance Areas Reviewed
 
 Access Control (AC)
