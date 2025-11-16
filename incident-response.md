@@ -35,7 +35,13 @@ Found evidence of brute-force behavior (multiple failed attempts with short inte
 Confirmed login did not match the user’s normal location
 
 Recommended password reset, MFA enforcement, session termination, and IP blocking
-## Overview  
+
+
+## Overview  🧩 MITRE ATT&CK Techniques
+
+T1110 — Brute Force
+
+T1078 — Valid Accounts
 Investigated a suspicious sequence of failed login attempts followed by a successful login, indicating a potential brute-force or credential compromise attack. Used Splunk to analyze authentication logs and executed containment procedures.
 
 ---
