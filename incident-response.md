@@ -2,6 +2,7 @@
   <img src="images/banner2.png" width="800">
 </p>
 # 🛡️ Incident Response: Suspicious Login & Brute-Force Attempt
+
 ## 🧰 Skills Applied
 - Log analysis (authentication events)  
 - Brute-force detection  
@@ -10,6 +11,7 @@
 - Containment recommendations  
 - Incident documentation  
 - MITRE ATT&CK mapping  
+
 🛠 Tools Used
 
 Splunk
@@ -21,6 +23,7 @@ AbuseIPDB / WHOIS lookup
 Windows Event Logs
 
 Security Onion (optional)
+
 ✔ Summary of Findings
 
 Detected repeated failed login attempts followed by 1 successful login
