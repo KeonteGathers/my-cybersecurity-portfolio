@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/banner2.png" width="800">
 </p>
-# 🛡️ Incident Response: Suspicious Login & Brute-Force Attempt
+
 
 ## 🧰 Skills Applied
 - Log analysis (authentication events)  
@@ -10,7 +10,7 @@
 - User identity verification  
 - Containment recommendations  
 - Incident documentation  
-- MITRE ATT&CK mapping  
+- MITRE ATT&CK mapping
 
 🛠 Tools Used
 
@@ -35,6 +35,10 @@ Found evidence of brute-force behavior (multiple failed attempts with short inte
 Confirmed login did not match the user’s normal location
 
 Recommended password reset, MFA enforcement, session termination, and IP blocking
+# 🛡️ Incident Response: Suspicious Login & Brute-Force Attempt
+
+
+
 
 
 ## Overview  🧩 MITRE ATT&CK Techniques
