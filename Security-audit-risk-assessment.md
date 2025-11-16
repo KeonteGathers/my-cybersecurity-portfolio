@@ -1,6 +1,64 @@
 <p align="center">
   <img src="images/banner6.png" width="800">
 </p>
+🧰 Skills Applied
+
+Security auditing
+
+NIST CSF & NIST 800-53 control review
+
+Gap identification and prioritization
+
+Risk scoring and risk matrix development
+
+Compliance alignment
+
+Policy & control evaluation
+
+Remediation planning and recommendations
+🛠 Frameworks & Tools Used
+
+NIST Cybersecurity Framework (CSF)
+
+NIST 800-53 Rev5
+
+Risk Matrix (likelihood × impact)
+
+Control checklists
+
+Asset categorization
+
+Security configuration reviews (MFA, logging, access control)
+✔ Summary of Findings
+
+Identified several high-risk gaps, including:
+
+No Multi-Factor Authentication (MFA)
+
+Insufficient logging and monitoring
+
+Uncontrolled USB device access
+
+Weak password policies
+
+Missing incident response documentation
+
+Prioritized findings by likelihood and impact
+
+Created a remediation roadmap with immediate, short-term, and long-term fixes
+
+Demonstrated ability to translate technical risks into business-level recommendations
+📌 Compliance Areas Reviewed
+
+Access Control (AC)
+
+Audit & Accountability (AU)
+
+System & Information Integrity (SI)
+
+Identification & Authentication (IA)
+
+Configuration Management (CM)
 # 📊 Security Audit & Risk Assessment (NIST-Based)
 
 ## Overview  
